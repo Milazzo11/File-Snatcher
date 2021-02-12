@@ -1,5 +1,4 @@
 from discord_webhook import DiscordWebhook
-from time import sleep
 import getpass
 import os
 # manages needed imports
